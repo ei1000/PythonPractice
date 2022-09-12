@@ -12,4 +12,4 @@ circle_cir = 2*pi*radius
 
 radius_area = (radius, area)
 
-print(radius_area, "->", (circle_cir >= square_per))
+print("(radius, area) -> (circle_circumference > square_perimeter)\n ", radius_area, "->", (circle_cir >= square_per))
